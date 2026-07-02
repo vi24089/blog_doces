@@ -3,8 +3,12 @@ header{
     width: 100%;
     padding: 30px;
 }
-
+header h1 {
+    color:floralwhite;
+    text-align: center;
+}
 header img {
-    width: 200px;
-    height: 100px;
+    width: 100px;
+    height: 240px;
+    object-fit: cover;
 }
